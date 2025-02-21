@@ -1,0 +1,10 @@
+@media (max-width: 576px) {
+  .btn_size_multi {
+    width: 20%;
+    height: inherit;
+    margin-right: .2em;
+    min-width: 5.4em;
+    padding: 0;
+  }
+}
+
