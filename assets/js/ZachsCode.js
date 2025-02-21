@@ -7,7 +7,7 @@ $(document).ready(function () {
         var maxLeft = playArea.width() - 50;
 
         var circle = $("<img>")
-            .attr("src", "img/hitCircs" + circleNumber + ".png")
+            .attr("src", "assets/img/hitCircs" + circleNumber + ".png")
             .addClass("osu-circle")
             .css({
                 position: "absolute",
